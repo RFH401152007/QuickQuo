@@ -1,5 +1,5 @@
 
-public class QuickQuo {
+public class quickQuo {
 
 
 	public static void main(String[] args) {
