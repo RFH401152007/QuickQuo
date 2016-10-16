@@ -8,6 +8,7 @@ public class quickQuo {
 		System.out.println("change one, test for commiting");
 		System.out.println("second change after cloneing project from server");
 		System.out.println("--------changes Schaevenstr!----------");
+		System.out.println("--------changes on Elin!--------------")
 	}
 
 }
